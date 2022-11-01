@@ -1,0 +1,7 @@
+streamlit==1.1.0
+altair==4.2.0
+pandas
+json
+Counter
+tweepy==4.11.0
+mecab-python3==1.0.5
