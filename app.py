@@ -6,7 +6,7 @@ from collections import Counter
 import tweepy
 import MeCab
 
-st.title('Twitter分析アプリ')
+st.title('Twitter分析aaa')
 st.write('''
 このアプリはTwitter APIを使った分析アプリです。\n
 ユーザーのタイムラインを様々な角度から分析します。
